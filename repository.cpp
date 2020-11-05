@@ -7,7 +7,7 @@ using namespace std;
 
 // some conflict with name of "main" in googletest. We'll figure it out later.
 int not_main() { 
-    cout << "This is a sample program for use in making repositories in github" << endl;  //This is a local commit 
+    cout << "This is a sample program for use in making repositories in github." << endl;  //local commit test 
     return 0; 
 } 
 
