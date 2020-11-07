@@ -1,0 +1,15 @@
+/*! \mainpage Mason's test project
+ *
+ * \section intro_sec Introduction
+ *
+ * This is the introduction. It generally describes what the project does, 
+ * and what this documentation does.
+ *
+ * This code is hosted on [github](https://github.com/mtutko/test).
+ *
+ * \section install_sec Installation
+ *
+ * To install this project, we do blah blah blah.
+ *
+ * etc...
+ */

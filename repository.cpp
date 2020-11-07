@@ -11,6 +11,10 @@ int not_main() {
     return 0; 
 } 
 
+/** This is a longer description that can go on for 
+ *  several lines if I want. But, most of the time it is 
+ *  not really needed.
+ */
 double my_square_root(const double val)
 {
     if (val < 0)
